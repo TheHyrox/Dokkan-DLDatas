@@ -1,0 +1,1 @@
+# Project to download datas from the game Dokkan
