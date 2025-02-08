@@ -1,0 +1,8 @@
+/apk/global/*
+/apk/jp/*
+
+.env
+.env.test
+.env.production
+
+node_modules/
