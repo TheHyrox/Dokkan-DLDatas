@@ -1,0 +1,19 @@
+{
+  "name": "dokkan-info",
+  "version": "1.0.0",
+  "description": "Dokkan Scrapping of all data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHyrox/Dokkan-DLDatas.git"
+  },
+  "author": "TheHyrox",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/TheHyrox/Dokkan-DLDatas/issues"
+  },
+  "homepage": "https://github.com/TheHyrox/Dokkan-DLDatas#readme"
+}
